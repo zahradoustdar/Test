@@ -1,4 +1,4 @@
-import gnomeapplet
+import mateapplet
 import time
 
 def start_app():
